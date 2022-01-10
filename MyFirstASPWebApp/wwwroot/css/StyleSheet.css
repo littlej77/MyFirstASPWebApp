@@ -1,0 +1,18 @@
+﻿body {
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h2{
+    font-family: 'Century Gothic'
+}
+
+label{
+    font-size: 20px;
+    color: darkblue;
+    width: 150px;
+}
+
+
